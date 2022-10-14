@@ -1586,7 +1586,7 @@ input, select, textarea {
 	}
 
 		ul.actions li {
-			padding-left: 0;
+			padding: 2px;
 			display: inline-block;
 			margin: 0 0 0 1em;
 		}
@@ -1921,6 +1921,7 @@ input, select, textarea {
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
 			font-size: 3em;
 			letter-spacing: 13px;
+			line-height: 35px;
 		}
 
 			#header h1 a {
