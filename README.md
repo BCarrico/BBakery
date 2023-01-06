@@ -1,5 +1,5 @@
 # B's Bread & Pizza
-Static website made for an at home bakery.
+Responsive static website made for an at home bakery.
 
 **Link to project:** https://bsbread.netlify.app
 
@@ -7,3 +7,5 @@ Static website made for an at home bakery.
 
 
 **Tech used:** HTML, CSS, JavaScript
+
+
